@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rivas0810/Rivas0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Fernando Rivas
+**Computer Engineer • Backend Developer (PHP & Laravel)**
 
-Here are some ideas to get you started:
+Focused on building maintainable solutions with Laravel and managing Linux environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## Tech Stack
+
+<div align="left">
+
+<h3>Backend</h3>
+<img src="https://skillicons.dev/icons?i=php,laravel" height="42" />
+
+<h3>Frontend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="42" />
+
+<h3>Databases & Tools</h3>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,linux" height="42" />
+
+</div>
+
+## Current Projects
+- ...
+- ...
+
+---
+
+<div align="center">
+  <h3>Connect with me</h3>
+  <a href="https://www.linkedin.com/in/fernando-rivas2003" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="42" /></a>&nbsp;&nbsp;<a href="mailto:fernandorivasj03@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="42" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <sub>Professional Portfolio • 2026</sub>
+</div>
